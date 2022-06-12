@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable-hdpi/button_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable-hdpi/dot.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable-hdpi/edit_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable-xxhdpi/single_otp_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/awaiting_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/bottomnav_color_selector.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/change_location_textview_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/ic_baseline_accessibility_24.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/ic_pen.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/location_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/pending_background.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/drawable/transparent_circle.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-land/activity_login.xml" value="0.21516754850088182" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-land/activity_login.xml" value="0.21516754850088182" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-land/activity_maps.xml" value="0.20256410256410257" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-land/activity_phone_login.xml" value="0.16013513513513514" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-land/activity_setup.xml" value="0.20256410256410257" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-land/activity_sign_up.xml" value="0.20256410256410257" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-port/activity_maps.xml" value="0.20854700854700856" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-port/activity_phone_login.xml" value="0.16188524590163936" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp-port/activity_sign_up.xml" value="0.20854700854700856" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp/activity_login.xml" value="0.152" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw320dp/activity_setup.xml" value="0.20854700854700856" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-land/activity_login.xml" value="0.45692883895131087" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-land/activity_phone_login.xml" value="0.1475211608222491" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-land/activity_setup.xml" value="0.6" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-land/activity_sign_up.xml" value="0.6" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-port/activity_phone_login.xml" value="0.145935960591133" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp-port/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp/activity_login.xml" value="0.2" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw480dp/activity_setup.xml" value="0.4" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-land/activity_login.xml" value="0.3730886850152905" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-land/activity_phone_login.xml" value="0.1475211608222491" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-land/activity_setup.xml" value="0.536" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-land/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-port/activity_phone_login.xml" value="0.145935960591133" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp-port/activity_sign_up.xml" value="0.145935960591133" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.15517241379310345" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw600dp/activity_setup.xml" value="0.145935960591133" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-land/activity_login.xml" value="0.1475211608222491" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-land/activity_phone_login.xml" value="0.1475211608222491" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-land/activity_setup.xml" value="0.176" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-land/activity_sign_up.xml" value="0.1475211608222491" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-port/activity_phone_login.xml" value="0.1519230769230769" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp-port/activity_sign_up.xml" value="0.1519230769230769" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp/activity_login.xml" value="0.4" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-sw720dp/activity_setup.xml" value="0.29683698296836986" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-w320dp-land/activity_login.xml" value="0.21516754850088182" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout-w320dp-port/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_choose_date_time.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_doct_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_maps.xml" value="0.136" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_phone_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_setup.xml" value="0.264" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/bottomsheet_camera_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/camera_gallery_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/edit_background.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/edit_profile_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_complete.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_date.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_docts.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_pending.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/fragment_time.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/phone_otp_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/single_item_completed.xml" value="0.22826086956521738" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/layout/single_item_doctors.xml" value="0.176" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/.Android Studio Projects/DoctorsJP/app/src/main/res/xml/file_paths.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
